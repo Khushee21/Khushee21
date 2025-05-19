@@ -6,7 +6,7 @@
 ## 💫 About Me: Full Stack Developer & Tech Enthusiast
 
 Coming from a humble background with no tech exposure around me, I aspired to become a successful SDE. With dedication and curiosity, I’ve developed a diverse set of skills across frontend, backend, and real-time technologies.
-As an MCA student at **Banasthali Vidyapith** and a passionate Full Stack Developer, I blend academic insight with cutting-edge technical skills.  
+As a MCA student at **Banasthali Vidyapith** and a passionate Full Stack Developer, I blend academic insight with cutting-edge technical skills.  
 Currently working as an **SDE Intern at Newral**, one of India's top tech agencies, Currently working on a project AssumeChat.
 My journey in tech began with a curiosity to build impactful solutions and has grown into a versatile skillset across frontend, backend, and real-time tech.
 
@@ -34,7 +34,6 @@ If you're looking for a creative and committed full stack developer, I'd love to
 <p align="left">
   <a href="mailto:khushirathore64@"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khushi-rathore-5363a8257"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/Khushee_rathore/#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
