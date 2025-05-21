@@ -32,7 +32,7 @@ Tailwind CSS, ShadCN, Chakra UI, Framer Motion
 If you're looking for a creative and committed full stack developer, I'd love to discuss how I can contribute to your team.
 
 <p align="left">
-  <a href="mailto:khushirathore64@"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:khushirathore649@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khushi-rathore-5363a8257"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
