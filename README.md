@@ -56,9 +56,3 @@ I'm always open to exciting collaborations, internships, or just tech talk! 😊
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushee21&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
