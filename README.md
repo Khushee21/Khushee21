@@ -4,11 +4,10 @@
 ---
 
 ## 🌟 About Me
-
-✨ Coming from a humble background with no tech exposure around me, I aspired to become a successful SDE.  
+  
 📚 Currently pursuing MCA at **Banasthali Vidyapith**, I blend academic curiosity with hands-on skills in building real-time applications.
 
-💼 I'm currently an **SDE Intern at [Newral] , working on a chat-based project called **AssumeChat**.  
+💼 I'm currently an **SDE Intern at [Newral] , working on multiple projects.  
 💡 My passion lies in building clean, scalable, and impactful solutions — combining both design and logic.
 
 ---
