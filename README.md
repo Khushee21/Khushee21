@@ -56,22 +56,12 @@ const Khushi: NewBie = {
             role: "Software Developer Intern",
             company: "Flexzistay",
             duration: "Recent",
-            achievements: [
-                "Developed and maintained key features for web applications using Next.js and Prisma ORM",
-                "Integrated third-party services including Zoho CRM, AiSensy for WhatsApp automation, and Email.js",
-                "Implemented external Gemini AI models to enhance application intelligence"
-            ]
+            achievements: "Developed web apps with Next.js, integrated third-party APIs (Zoho CRM, WhatsApp automation, Email.js), and implemented Gemini AI to enhance application intelligence."
         },
         newral: {
             role: "Full Stack Intern",
             company: "Newral",
-            achievements: [
-                "Delivered full-stack projects in Agile environment including LMS, Earthy Agri-Market, MH Games, AssumeChat, Rapid Stroke",
-                "Implemented secure authentication flows, reducing login time by 47%",
-                "Optimized API integrations and improved data loading performance",
-                "Enhanced application stability, decreasing bug reports by 20%",
-                "Gained end-to-end product experience from feature design to deployment"
-            ]
+            achievements: "Delivered full-stack projects (LMS, Agri-Market, etc.), optimized APIs reducing login time by 47%, decreased bug reports by 20%, and gained end-to-end product experience."
         }
     },
     stack: {
