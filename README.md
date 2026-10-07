@@ -13,10 +13,10 @@ I build and ship production-ready products across **web, mobile, backend, DevOps
 - **[MyDukan — Senior Software Developer](https://mydukan.app/)**  
   Building and maintaining enterprise ERP systems across inventory, sales, purchases, accounts, masters, branch management and approval workflows. Working across frontend, backend, databases, APIs, DevOps and production systems.
 
-- **[Flexzistay — Software Developer Intern](https://www.flexzistay.in/)**  
+- **[Flexzistay — Software Developer](https://www.flexzistay.in/)**  
   Worked on production SaaS and booking products, including pricing APIs, invoice and voucher generation, booking workflows, Excel imports and backend integrations.
 
-- **[Newral — Full-Stack Developer](https://newral.in/)**  
+- **[Newral — Full-Stack Developer Intern](https://newral.in/)**  
   Built and shipped full-stack products across web and backend, working on admin platforms, manager portals, APIs, authentication and production features.
 
 
