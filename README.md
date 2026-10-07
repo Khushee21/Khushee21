@@ -1,106 +1,87 @@
-$npx connect khushi
+# Hey, I'm Khushi 👋
 
-Initializing...
+**AI + Full-Stack Developer · Senior Software Developer at MyDukan**
 
-Ready to connect.
+I build and ship production-ready products across **web, mobile, backend, DevOps and AI** — from MVPs to enterprise applications. I've worked across the complete product lifecycle, from architecture and development to deployment, debugging, performance optimization and production support.
 
-Waiting for contact request...
+🌐 [Portfolio](https://khushirathore.vercel.app/) · 📅 [Book a call](https://cal.com/khushi-rathore-06jbko) · 💼 [LinkedIn](https://www.linkedin.com/in/khushi-rathore-5363a8257) · ✉️ [Email](mailto:khushirathore649@gmail.com)
 
 
-<h1 align="center"> Heyya! I'm <span style="color:#ff69b4;">Khushi Rathore</span></h1>
 
-<h3 align="center"> Full Stack Developer |  Android App Developer |  Aspiring Salesforce Developer</h3>
+##  Experience
+
+- **MyDukan — Senior Software Developer**  
+  Building and maintaining enterprise ERP systems across inventory, sales, purchases, accounts, masters, branch management and approval workflows. Working across frontend, backend, databases, APIs, DevOps and production systems.
+
+- **Flexzistay — Software Developer Intern**  
+  Worked on production SaaS and booking products, including pricing APIs, invoice and voucher generation, booking workflows, Excel imports and backend integrations.
+
+- **Newral — Full-Stack Developer**  
+  Built and shipped full-stack products across web and backend, working on admin platforms, manager portals, APIs, authentication and production features.
+
+
+##  Freelancing & Products
+
+I've independently worked on and deployed **5+ enterprise-level projects** across different domains.
+
+- **E-commerce — Web + Mobile App**  
+  Built a complete e-commerce ecosystem with customer applications, backend services and admin workflows.
+
+- **Tiffin Delivery — Web + Mobile Apps**  
+  Built an end-to-end food subscription and delivery ecosystem with customer, delivery-partner and admin applications.
+
+- **Trading Platform — Web + Mobile**  
+  Built trading-focused applications involving market data, portfolios, positions and watchlists, with **80+ daily active users**.
+
+- **Enterprise Applications**  
+  Developed production systems involving complex business workflows, authentication, payments, APIs, databases and third-party integrations.
+
+##  Currently Exploring
+
+I'm currently going deeper into **AI + Full-Stack Engineering**, with a strong focus on understanding systems beyond the application layer.
+
+- 🤖 LLMs & AI-powered applications
+- 🧠 LLM agents & tool calling
+- 🏗️ System Design & distributed systems
+- ⚙️ Scalable backend architecture
+- 📊 Performance & database optimization
+- ☁️ Cloud infrastructure & production engineering
+- 🔄 Building AI into real-world products
+
+Currently focused on becoming stronger at designing **scalable, reliable and intelligent systems** — not just building individual features.
+
+
+##  Tech Stack
+
+**AI & LLMs**  
+LLMs · AI Agents · Tool Calling · Gemini · AI Integrations
+
+**Languages**  
+TypeScript · JavaScript · Java · C · SQL
+
+**Frontend & Mobile**  
+React · Next.js · React Native · Expo · Redux · Tailwind CSS · shadcn/ui · Framer Motion
+
+**Backend & Systems**  
+Node.js · Express.js · NestJS · REST APIs · Socket.IO · tRPC
+
+**Databases & Data**  
+PostgreSQL · MongoDB · Redis · Prisma · Drizzle ORM
+
+**Cloud & DevOps**  
+AWS · Docker · Nginx · GitHub Actions · Vercel · Render · Netlify
+
+**Payments & Integrations**  
+Razorpay · Firebase · Google Maps · Third-party APIs
+
+
+
+## 🤝 Let's Connect
+
+I'm always open to discussing **AI, SaaS, full-stack engineering, system design, product development and interesting technical problems.**
+
+🌐 [Portfolio](https://khushirathore.vercel.app/) · 📅 [Book a Call](https://cal.com/khushi-rathore-06jbko) · 💼 [LinkedIn](https://www.linkedin.com/in/khushi-rathore-5363a8257) · ✉️ [Email](mailto:khushirathore649@gmail.com)
 
 <p align="center">
-  <a href="https://github.com/Khushee21">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/khushi-rathore-5363a8257">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://khushirathore.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/Khushi_rathore21/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:khushirathore649@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <i>Build. Ship. Learn. Scale. 🚀</i>
 </p>
-
----
-
-About Me
-
-```typescript
-const Khushi: NewBie = {
-    name: "Khushi Rathore",
-    role: "Full Stack Developer",
-    focus: "AI-Powered Applications & Scalable SaaS Platforms",
-    aspiring: "Salesforce Developer",
-    education: {
-        masters: {
-            degree: "Masters of Computer Application",
-            institution: "Banashali University",
-            cgpa: 9.50
-        },
-        bachelors: {
-            degree: "Bachelor of Computer Application",
-            institution: "Vikram University",
-            cgpa: 7.56
-        }
-    },
-    experience: {
-        flexzistay: {
-            role: "Software Developer Intern",
-            company: "Flexzistay",
-            duration: "Recent",
-            achievements: "Developed web apps with Next.js, integrated third-party APIs (Zoho CRM, WhatsApp automation, Email.js), and implemented Gemini AI to enhance application intelligence."
-        },
-        newral: {
-            role: "Full Stack Intern",
-            company: "Newral",
-            achievements: "Delivered full-stack projects (LMS, Agri-Market, etc.), optimized APIs reducing login time by 47%, decreased bug reports by 20%, and gained end-to-end product experience."
-        }
-    },
-    stack: {
-        languages: ["Java", "C", "JavaScript", "TypeScript"],
-        frontend: ["Next.js", "React.js", "Tailwind CSS", "Redux", "ShadcnUI", "Framer Motion"],
-        backend: ["Node.js", "Express.js", "MongoDB", "Prisma ORM", "Drizzle ORM", "Socket.IO"],
-        tools: ["Git", "GitHub", "VS Code", "Postman", "Docker", "AWS"],
-        practices: ["REST API", "Agile/Scrum", "Responsive Design", "CI/CD", "tRPC"]
-    },
-   achievements: {
-    leetcode: "Solved **800+ DSA problems** on LeetCode",
-    hackcelestia: "Top 10 in HackCelestia PAN India (out of 160+ teams)"
-  }
-};
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,chakra,docker,git,github,firebase,vercel,figma,redux,prisma,nestjs,javascript,java,c,render,emailjs" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushee21&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Khushee21&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushee21&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khushee21&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
-
-
-
-
-On the lookout for creative allies! Want to build, design, or dream up something special? My DMs are open!
